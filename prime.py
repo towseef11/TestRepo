@@ -1,3 +1,4 @@
+print("Welcome")
 n = int(input())
 prime = True
 
