@@ -1,0 +1,9 @@
+
+nums = [40,10,50,20,30]
+print(max(nums))
+print(min(nums))
+print(sum(nums))
+nums.sort()
+print(nums)
+nums.sort(reverse=True)
+print(nums)
